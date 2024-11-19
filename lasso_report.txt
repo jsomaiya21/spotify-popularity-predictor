@@ -1,0 +1,84 @@
+POPFILM METRICS ==> 
+{'MSE': np.float64(74.88806608684777), 'R2': 0.034818247718150785, 'Feature Rankings':              Feature  Importance
+10          liveness  -13.385158
+2       danceability    7.433678
+7        speechiness   -5.933218
+11           valence   -4.387774
+8       acousticness   -3.640065
+3             energy   -2.745106
+13    time_signature    2.091741
+6               mode    0.607219
+4                key    0.096921
+5           loudness    0.088106
+12             tempo    0.018832
+0        duration_ms    0.000005
+1           explicit    0.000000
+9   instrumentalness    0.000000}
+
+SAD METRICS ==> 
+{'MSE': np.float64(84.69998223361668), 'R2': 0.16603248634667533, 'Feature Rankings':              Feature  Importance
+10          liveness    6.337774
+7        speechiness    5.094362
+2       danceability    4.504696
+13    time_signature    1.880680
+1           explicit    1.110298
+6               mode   -0.763699
+11           valence    0.598381
+4                key    0.078474
+5           loudness   -0.075554
+8       acousticness    0.022008
+12             tempo   -0.002543
+0        duration_ms   -0.000047
+3             energy    0.000000
+9   instrumentalness   -0.000000}
+
+ELECTRONIC METRICS ==> 
+{'MSE': np.float64(257.78968399108726), 'R2': -0.006132010616703987, 'Feature Rankings':              Feature  Importance
+2       danceability    6.352285
+11           valence   -5.369759
+9   instrumentalness    4.819840
+13    time_signature    4.757888
+1           explicit    2.304887
+3             energy   -1.929768
+7        speechiness   -1.582368
+10          liveness   -1.423807
+6               mode   -1.046807
+5           loudness    0.345047
+8       acousticness   -0.217261
+4                key   -0.121683
+12             tempo   -0.004944
+0        duration_ms   -0.000016}
+
+METAL METRICS ==> 
+{'MSE': np.float64(767.6313257280727), 'R2': 0.01829342945428636, 'Feature Rankings':              Feature  Importance
+3             energy  -30.778160
+9   instrumentalness  -12.629118
+7        speechiness   -9.671572
+1           explicit    9.158443
+10          liveness   -4.101111
+6               mode   -3.517304
+11           valence    2.068918
+5           loudness    1.596679
+2       danceability    0.583025
+13    time_signature    0.403979
+4                key   -0.238511
+8       acousticness   -0.079007
+12             tempo    0.035202
+0        duration_ms    0.000027}
+
+ACOUSTIC METRICS ==> 
+{'MSE': np.float64(217.38255148895692), 'R2': 0.05077274893443107, 'Feature Rankings':              Feature  Importance
+1           explicit  -10.014199
+11           valence   -9.185877
+3             energy   -7.726312
+9   instrumentalness   -5.887246
+2       danceability    5.677233
+7        speechiness   -2.614721
+10          liveness   -2.297981
+6               mode    2.149135
+13    time_signature    1.200322
+5           loudness   -0.219938
+4                key   -0.096114
+8       acousticness    0.052395
+12             tempo    0.011907
+0        duration_ms   -0.000012}
