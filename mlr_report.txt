@@ -33,20 +33,20 @@ SAD METRICS ==>
 0        duration_ms   -0.000047}
 
 ELECTRONIC METRICS ==> 
-{'MSE': np.float64(257.78968399108726), 'R2': -0.006132010616703987, 'Feature Rankings':              Feature  Importance
-2       danceability    6.352285
-11           valence   -5.369759
-9   instrumentalness    4.819840
-13    time_signature    4.757888
-1           explicit    2.304887
-3             energy   -1.929768
-7        speechiness   -1.582368
-10          liveness   -1.423807
-6               mode   -1.046807
-5           loudness    0.345047
-8       acousticness   -0.217261
-4                key   -0.121683
-12             tempo   -0.004944
+{'MSE': np.float64(257.38706352358736), 'R2': -0.004560615927011513, 'Feature Rankings':              Feature  Importance
+2       danceability    7.043884
+11           valence   -5.636985
+9   instrumentalness    4.884547
+13    time_signature    4.770355
+7        speechiness   -3.331937
+3             energy   -2.679764
+1           explicit    2.456799
+10          liveness   -1.651458
+6               mode   -1.081401
+8       acousticness   -0.507883
+5           loudness    0.372228
+4                key   -0.117797
+12             tempo   -0.003428
 0        duration_ms   -0.000016}
 
 METAL METRICS ==> 
